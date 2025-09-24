@@ -4,7 +4,7 @@
 </p>
 
 <!-- Bio -->
-<h3 align="center">🚀 Lead Developer | Flutter • Django • AI • Robotics • DeFi</h3>
+<h3 align="center">🚀 Lead Developer | Flutter • Django • AI • Robotics</h3>
 <p align="center">
   Passionate about building futuristic, local-first, and ultra-modern experiences.<br/>
   I design solutions that bridge <b>AI & robotics</b>, <b>mobile & web apps</b>,<br/>
@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Backend-Django-092E20?logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-YOLOv5%20•%20LLM-ff6f00?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hardware-ESP32-3C3C3C?logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blockchain-DeFi-29b6af?logo=ethereum&logoColor=white"/>
 </p>
 
 ---
