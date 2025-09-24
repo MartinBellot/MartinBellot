@@ -34,12 +34,15 @@ A local-first custom OS (GNOME themed, Ondes branding) with Docker container orc
 
 ---
 
-<!-- Stats -->
-## 📊 GitHub Stats
+<!-- Contributions -->
+## 🖤 Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinbellot&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinbellot&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=martinbellot&theme=react-dark&hide_border=true&bg_color=0D1117&color=00c6ff&line=0072ff&point=ffffff" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/martinbellot/martinbellot/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
