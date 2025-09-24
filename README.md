@@ -4,7 +4,7 @@
 </p>
 
 <!-- Bio -->
-<h3 align="center">🚀 Lead Developer | Flutter • Django • AI • Robotics</h3>
+<h3 align="center">Lead Developer | Flutter • Django • AI • Robotics</h3>
 <p align="center">
   Passionate about building futuristic, local-first, and ultra-modern experiences.<br/>
   I design solutions that bridge <b>AI & robotics</b>, <b>mobile & web apps</b>,<br/>
@@ -24,12 +24,12 @@
 ---
 
 <!-- Projects -->
-## ✨ Highlight Projects
+## Highlight Projects
 
-🔹 **🤖 Ilo Educational Robot**  
+🔹 **Ilo Educational Robot**  
 A STEAM-focused robot powered by ESP32, Flutter & Django — featuring embedded AI (YOLOv5, BLIP), OTA updates, WebSocket/Bluetooth communication, and interactive courses.  
 
-🔹 **🌊 Ondes OS & Box**  
+🔹 **Ondes OS & Box**  
 A local-first custom OS (GNOME themed, Ondes branding) with Docker container orchestration, ultra-low-latency video streaming (FFmpeg/UDP), and Flutter Desktop integration.   
 
 ---
