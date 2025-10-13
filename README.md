@@ -41,19 +41,6 @@ A local-first custom OS (GNOME themed, Ondes branding) with Docker container orc
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=martinbellot&theme=react-dark&hide_border=true&bg_color=0D1117&color=00c6ff&line=0072ff&point=ffffff" alt="Activity Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/martinbellot/martinbellot/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
-
----
-
-<!-- Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Build%20the%20future,%20locally%20first.&author=Martin%20Bellot"/>
-</p>
-
----
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
