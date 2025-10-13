@@ -32,15 +32,6 @@ A STEAM-focused robot powered by ESP32, Flutter & Django — featuring embedded 
 🔹 **Ondes OS & Box**  
 A local-first custom OS (GNOME themed, Ondes branding) with Docker container orchestration, ultra-low-latency video streaming (FFmpeg/UDP), and Flutter Desktop integration.   
 
----
-
-<!-- Contributions -->
-## 🖤 Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=martinbellot&theme=react-dark&hide_border=true&bg_color=0D1117&color=00c6ff&line=0072ff&point=ffffff" alt="Activity Graph"/>
-</p>
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
